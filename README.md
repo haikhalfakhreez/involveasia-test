@@ -1,24 +1,5 @@
-# involveasia-test
+# Involve Asia Front-end Test
 
-## Project setup
-```
-npm install
-```
+Visit live site [here](https://haikhalfakhreez.github.io/involveasia-test/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a sample website build for a test from Involve Asia
